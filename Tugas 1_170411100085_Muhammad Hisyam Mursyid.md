@@ -1,3 +1,8 @@
+mkdocs.yml    # The configuration file.
+docs/
+    index.md  # The documentation homepage.
+    ...       # Other markdown pages, images and other files.
+    
 Nama : Muhammad Hisyam Mursyid
 
 Nim : 170411100085
